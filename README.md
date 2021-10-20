@@ -33,8 +33,6 @@ You can't edit nbttags with the Spigot API. You need to use net.minecraft.server
 
 NBTTags API uses java reflection to get your server's version and access to the right NMS package. So you can use your plugin with all versions.
 
-*(Currently, the only release is built with Spigot 1.15.2, but you can change the version into the pom.xml or wait that I build it with others versions)*
-
 ## How do I use the API
 
 Import;
