@@ -1,3 +1,6 @@
+# OUTDATED
+please use this API from the [SpigotApi](https://github.com/Lucaa8/SpigotApi) plugin (1.20.x and later)
+
 ![NBTTags](https://i.imgur.com/w4F5Ka3.png)
 
 ## About NBTTags API
